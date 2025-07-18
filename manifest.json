@@ -20,27 +20,12 @@
       "type": "image/png"
     }
   ],
-  "categories": ["business", "productivity"],
+  "categories": [
+    "business",
+    "productivity"
+  ],
   "lang": "pt-BR",
-  "launch_handler": {
-    "client_mode": ["focus-existing", "auto"]
-  },
   "dir": "ltr",
   "prefer_related_applications": false,
-  "scope": "/",
-  "screenshots": [
-    {
-      "src": "/assets/screenshot_login.png",
-      "sizes": "384x236",
-      "type": "image/png",
-      "form_factor": "wide"
-    },
-    {
-      "src": "/assets/screenshot_dashboard.png",
-      "sizes": "384x236",
-      "type": "image/png",
-      "form_factor": "wide"
-    }
-  ]
+  "scope": "/"
 }
-
